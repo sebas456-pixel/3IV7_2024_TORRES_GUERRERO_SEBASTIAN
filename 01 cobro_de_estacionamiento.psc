@@ -1,7 +1,7 @@
 Algoritmo cobro_de_estacionamiento
-	Definir horaentrada, minutoentrada, horasalida, minutosalida Como Entero
-	Definir totalhoras, totalminutos, minutostotalesdecuenta Como Entero
-	Definir totalcobro Como Entero
+	Definir horaentrada, minutoentrada, horasalida, minutosalida Como real
+	Definir totalhoras, totalminutos, minutostotalesdecuenta Como real
+	Definir totalcobro Como real
 	
 	Escribir "ingrese la hora de entrada (formato de 24 Horas)"
 	Leer horaentrada
